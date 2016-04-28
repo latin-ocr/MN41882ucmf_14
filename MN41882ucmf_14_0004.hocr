@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN41882ucmf_14_0004.png"; bbox 0 0 2447 3432; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 539 1535 1224 2114">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 539 1535 1224 2084">
+     <span class='ocr_line' id='line_1_1' title="bbox 758 1535 1199 1686; baseline 0.007 -4"><span class='ocrx_word' id='word_1_1' title='bbox 758 1535 1199 1686; x_wconf 80' lang='lat' dir='ltr'>Microfilm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 539 1733 1224 1885; baseline 0.006 -5"><span class='ocrx_word' id='word_1_2' title='bbox 539 1733 1146 1885; x_wconf 76' lang='lat' dir='ltr'>Presewation</span> <span class='ocrx_word' id='word_1_3' title='bbox 1202 1762 1224 1797; x_wconf 94' lang='grc'><em>·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 594 1932 1214 2114; baseline 0.003 -34"><span class='ocrx_word' id='word_1_4' title='bbox 594 1932 1132 2114; x_wconf 77' lang='lat' dir='ltr'>Bethlehem,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1189 1961 1214 2001; x_wconf 91' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 677 2289 1224 2843">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 677 2289 1224 2843">
+     <span class='ocr_line' id='line_1_4' title="bbox 677 2289 1215 2483; baseline 0.002 -40"><span class='ocrx_word' id='word_1_6' title='bbox 677 2289 1045 2444; x_wconf 80' lang='lat' dir='ltr'>camera</span> <span class='ocrx_word' id='word_1_7' title='bbox 1081 2291 1215 2483; x_wconf 82' lang='lat' dir='ltr'>Op</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 745 2491 1224 2684; baseline -0.004 -40"><span class='ocrx_word' id='word_1_8' title='bbox 745 2491 1082 2684; x_wconf 79' lang='lat' dir='ltr'>Shirley</span> <span class='ocrx_word' id='word_1_9' title='bbox 1118 2494 1224 2642; x_wconf 88' lang='grc' dir='ltr'>Μ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 786 2691 1224 2843; baseline -0.005 0"><span class='ocrx_word' id='word_1_10' title='bbox 786 2691 1100 2843; x_wconf 79' lang='lat' dir='ltr'>Gerald</span> <span class='ocrx_word' id='word_1_11' title='bbox 1134 2694 1224 2841; x_wconf 81' lang='grc' dir='ltr'>ν.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1228 3432">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1228 3432">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1228 3432; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1228 3432; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
